@@ -1,5 +1,7 @@
 # Webshop
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6aff6e0d-b572-4c86-878d-90ce4e8048ba/deploy-status)](https://app.netlify.com/sites/tiny-conkies-ac34c0/deploys)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
 ## Development server
