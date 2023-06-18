@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProductsHeaderComponent implements OnInit {
   sort = 'desc';
+  itemsShowCount = 12;
+
   constructor() {}
 
   ngOnInit(): void {}
